@@ -18,7 +18,7 @@ const Call = props => {
           <div className="call-phone">
             <strong>Phone: </strong>
             {' '}
-            { data.contactJson.phone }
+            <a href={ `tel:${data.contactJson.phone}` }>{data.contactJson.phone}</a>
             {' '}
           </div>
         )}
