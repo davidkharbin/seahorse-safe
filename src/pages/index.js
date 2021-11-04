@@ -32,7 +32,7 @@ const Home = props => {
             </div>
             {intro.frontmatter.intro_image && (
               <div className="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-                <img alt={intro.frontmatter.title} className={introImageClasses} src={intro.frontmatter.intro_image} />
+                <img alt={intro.frontmatter.title} className={introImageClasses} style={{maxWidth: '750px'}} src={intro.frontmatter.intro_image} />
 
               </div>
             )}

@@ -52,7 +52,7 @@ const Team = props => {
             </div>
           ))}
         </div>
-        <div className="row pt-6 pb-6">
+        {/* <div className="row pt-6 pb-6">
           {team.filter(edge => (!edge.node.frontmatter.promoted)).map(({ node }) => (
             <div key={node.id} className="col-12 col-md-6 mb-2">
               <div className="team team-summary">
@@ -71,7 +71,7 @@ const Team = props => {
               </div>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
 
     </Layout>
