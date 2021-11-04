@@ -2,7 +2,7 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Test',
+    title: 'Seahorse Safe',
     description: 'my theme'
   },
   plugins: [
