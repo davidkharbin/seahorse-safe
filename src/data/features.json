@@ -1,17 +1,22 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "/images/features/noun_branding_1885335.svg"
+    "title": "Free Quotes",
+    "description": "Free quotes for all clients",
+    "image": "/images/features/quote.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "/images/features/noun_The Process_1885341.svg"
+    "title": "Free Consultations",
+    "description": "Free consultations for new clients",
+    "image": "/images/features/consult.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "/images/features/noun_3d modeling_1885342.svg"
+    "title": "Certified Technician",
+    "description": "Certified locksmith, safe technician, and journeyman safecracker.",
+    "image": "/images/features/certificate.svg"
+  },
+  {
+    "title": "BBB Rating: A+",
+    "description": "We have an A+ rating from the Better Business Bureau",
+    "image": "/images/features/bbb-icon.svg"
   }
 ]
