@@ -19,7 +19,7 @@ const Home = props => {
       <Helmet>
         <meta
           name="Seahorse Safe"
-          content="Leading safe technician in Colorado."
+          content="Leading locksmith and safe technician in Colorado."
         />
       </Helmet>
 

@@ -5,7 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Master Locksmith & Safe Service
+# Locksmith & Safe Services
 
 A leading Locksmith and Safe Technician in Colorado, Wes established Seahorse in 1979.
 
