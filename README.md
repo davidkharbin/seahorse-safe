@@ -1,12 +1,11 @@
 # Seahorse Safe
 
-A small business website, built with Serif - a beautiful Gatsby Theme. Fully responsive, blazing fast and artfully illustrated.
+A small business website built with Serif - a beautiful Gatsby Theme. Fully responsive, blazing fast and artfully illustrated.
 
-[Live Demo](https://seahorse-safe.netlify.app/) | 
+[Live Site](https://seahorse-safe.netlify.app/) | 
 [Zerostatic Themes (Serif theme creator)](https://www.zerostatic.io/)
 
-// test image link
-![Gatsby Serif Theme screenshot](./static/images/seahorse-logo.png)
+![Logo](./static/images/screenshot.png)
 
 ## Theme features
 
