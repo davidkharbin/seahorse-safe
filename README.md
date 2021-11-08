@@ -7,14 +7,13 @@ A small business website built with Serif - a beautiful Gatsby Theme. Fully resp
 
 ![Logo](./static/images/screenshot.png)
 
-## Theme features
+## Site features
 
 - Gatsby v3
 - Multi-page theme (not just a blog) that uses Markdown for multiple content-types/templates. It uses `gatsby-transformer-remark` and has several examples of querying and filtering `allMarkdownRemark`
 - Includes a graphql query in `gatsby-node.js` that creates pages and templates by content type based on the folder `src/pages/services`, `src/pages/team`,
 - Services (Markdown)
-- Team (Markdown)
-- Testimonials (Markdown)
+- Certification (Markdown)
 - Features (Data)
 - SCSS using `gatsby-plugin-sass`
 - Responsive design
