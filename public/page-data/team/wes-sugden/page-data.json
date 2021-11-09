@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/wes-sugden/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Wes Sugden"},"fields":{"slug":"/team/wes-sugden/"},"html":"<p>This is Wes, the owner of Seahorse Safe and Lockout Service, LLC. If anyone shows up who is not pictured in this photo, they are most likely a scammer. Call the police if necessary.</p>"}},"pageContext":{"id":"f4e9c29c-42c0-50be-9f27-7ffa9c88aeed"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

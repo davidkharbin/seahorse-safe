@@ -1,0 +1,3 @@
+Unsure why yet, but this src/images directory is required for develop/build commands.
+
+This text file simply forces git to push the folder. (Git ignores empty folders by default)

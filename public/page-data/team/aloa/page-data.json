@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/aloa/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"ALOA"},"fields":{"slug":"/team/aloa/"},"html":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</p>"}},"pageContext":{"id":"7b4ea077-e18b-5d1b-853b-ea967f3a4159"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contact-js",
+    "path": "/contact",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Contact","path":"/contact"},"fields":{"slug":"/basic/contact/"},"html":"<p>We accept cash, credit cards, debit cards, and in-state personal checks (no temporary checks).</p>\n<p>Valid Photo ID required. The person presenting the card or check must be the person named on the card or check.</p>\n<table>\n<thead>\n<tr>\n<th>Day</th>\n<th>Opening Hours</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Saturday</td>\n<td>Closed</td>\n</tr>\n<tr>\n<td>Monday</td>\n<td>9:00am - 5:00pm</td>\n</tr>\n<tr>\n<td>Tuesday</td>\n<td>9:00am - 5:00pm</td>\n</tr>\n<tr>\n<td>Wednesday</td>\n<td>9:00am - 5:00pm</td>\n</tr>\n<tr>\n<td>Thursday</td>\n<td>9:00am - 5:00pm</td>\n</tr>\n<tr>\n<td>Friday</td>\n<td>9:00am - 5:00pm</td>\n</tr>\n<tr>\n<td>Saturday</td>\n<td>Closed</td>\n</tr>\n</tbody>\n</table>"}},"pageContext":{"id":"b8ed90c3-1f04-5092-a33f-6a84006a75d3"}},
+    "staticQueryHashes": ["1302411885","1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

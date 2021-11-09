@@ -5,25 +5,23 @@ featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+For one or more reasons you may want to change the combination on your safe.
 
 ![Combinations Changed](/images/combination.jpg)
 
-# Objectives 
+# Reasons to change a safe combination: 
 
-Financial accounting and financial reporting are often used as synonyms.
+1. You're concerned someone else has discovered your combination.
+2. You have terminated an employee who has the combination to your safe
+3. The combination is no longer meaningful or easy to remember
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Mechanical vs. Electronic Safe Lock
 
-## Relevance
+Changing the combination on a mechanical safe differs from an electronic safe. We are experienced and capable of changing combinations on any make or model.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+> We do not record or keep combinations to your safe. 
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Your combination is personal, and we keep no record of the new or old one.
 
 ## Faithful Representation
 

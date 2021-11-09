@@ -5,7 +5,7 @@
     "logo": {
         "mobile": "/images/logo/logo.png",
         "desktop": "/images/logo/logo.png",
-        "desktop_height": "48px",
+        "desktop_height": "64px",
         "alt": "Seahorse Safe"
     },
     "homepage_meta_tags": {
